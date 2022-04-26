@@ -1,0 +1,55 @@
+{
+  "news": [
+    {
+      "id": 2,
+      "name": "Football news",
+      "description": "Ma’lum qilinishicha, futbolchilar o‘rtasida kelishmovchilik kelib chiqqan va uni bartaraf etishga huquqni muhofaza qiluvchi organ xodimlari jalb etilgan",
+      "category": "LocalNews"
+    },
+    {
+      "id": 3,
+      "name": "Football news",
+      "description": "Ma’lum qilinishicha, futbolchilar o‘rtasida kelishmovchilik kelib chiqqan va uni bartaraf etishga huquqni muhofaza qiluvchi organ xodimlari jalb etilgan",
+      "category": "SportNews"
+    },
+    {
+      "name": "oiwhruirtyearyte",
+      "description": "eteyeryw54y",
+      "category": "WorldNews",
+      "id": 4
+    },
+    {
+      "name": "weiuuyhuWGGUYGTY",
+      "description": "WEKJJHHJAHHGH",
+      "category": "BreackingNews",
+      "id": 5
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "All",
+      "className": "btn-dark"
+    },
+    {
+      "name": "BreackingNews",
+      "label": "Breacking News",
+      "className": "btn-danger"
+    },
+    {
+      "name": "LocalNews",
+      "label": "Local News",
+      "className": "btn-primary"
+    },
+    {
+      "name": "SportNews",
+      "label": "Sport News",
+      "className": "btn-success"
+    },
+    {
+      "name": "WorldNews",
+      "label": "World News",
+      "className": "btn-warning"
+    }
+  ]
+}
